@@ -1,0 +1,20 @@
+Privacy Policy for TVUSD Elementary Lunch Calendar
+
+Effective Date: 2-11-2025
+
+TVUSD Elementary Lunch Calendar is developed by Carl Christensen and is designed to provide the ability to lookup the published menu for TVUSD elementary school lunches.
+
+Information We Collect
+This Alexa skill does not collect, store, or share any personal data. It only processes user interactions necessary for the skill’s functionality.
+
+How We Use Information
+Any data processed by TVUSD is handled through Amazon’s Alexa platform and is not stored or accessed by Carl Christensen.
+
+Third-Party Services
+This skill relies on Amazon’s Alexa services to function. Please refer to Amazon’s Privacy Policy for more details.
+
+Changes to This Privacy Policy
+We may update this policy from time to time. Any changes will be posted on this page.
+
+Contact Us
+If you have any questions about this privacy policy, please contact us at carl4os@yahoo.com.
